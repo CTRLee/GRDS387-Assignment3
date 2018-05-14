@@ -1045,12 +1045,12 @@ select {
 
 /* Actual content */
 .expanded__image {
-  width: 90%;
-  max-width: 220px;
-  padding: 16pt 0; }
+  width: 100%;
+  max-width: 1080px;
+  padding: 12pt 0; }
   @media (min-width: 992px) {
     .expanded__image {
-      max-width: 280px; } }
+      max-width: 1080px; } }
 
 .expanded__title {
   max-width: 550px; }
